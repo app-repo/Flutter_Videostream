@@ -1,16 +1,48 @@
-# flutter_videostreamer
+<h1 align="center">
+    <br>
+    TikTok Flutter
+</h1>
+<h4 align="center">
+ Clone of TikTok with Flutter and Firebase.
+</h4>
 
-A new Flutter application.
+<p align="center">
+  <img alt="shields.io" src="https://img.shields.io/github/license/jitheshshetty55/Flutter_Videostream" />
+  <img alt="shields.io" src="https://img.shields.io/github/issues/jitheshshetty55/Flutter_Videostream" />
+  <img alt="shields.io" src="https://img.shields.io/github/stars/jitheshshetty55/Flutter_Videostream?style=social" />
+  <img alt="shields.io" src="https://img.shields.io/youtube/views/1h-xvW7vojI?style=social" />
+<p align="center">
+    <img src="https://github.com/jitheshshetty55/Flutter_Videostream/blob/master/Gitimages/samplescreeen.png" alt="drawing"  width="170" />
+</p>
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+# Characteristics 
+Video Demo:https://youtu.be/1h-xvW7vojI
 
-A few resources to get you started if this is your first Flutter project:
+-Videostream UI                                 
+-Swipe Videos                                                            
+-Dynamic Video Data Source                                                                  
+-User Data (Name, Image)  
+-Animations(Image rotation)  
+-Dynamic data of counts
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+# Libraries
+-video_player.
+-stack
+-cached_network_image
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Installation
+
+1.Clone or download this repository 
+
+
+https://github.com/jitheshshetty55/Flutter_Videostream.git
+
+
+2.Config flutter project : 
+
+
+flutter pub get
+
+
+
