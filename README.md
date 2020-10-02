@@ -28,8 +28,8 @@ Video Demo:https://youtu.be/1h-xvW7vojI
 
 ## Libraries
 -video_player.
--stack
--cached_network_image
+-stack.
+-cached_network_image.
 
 ## Installation
 
