@@ -16,7 +16,7 @@
 </p>
 
 
-# Characteristics 
+## Characteristics 
 Video Demo:https://youtu.be/1h-xvW7vojI
 
 -Videostream UI                                 
@@ -26,23 +26,23 @@ Video Demo:https://youtu.be/1h-xvW7vojI
 -Animations(Image rotation)  
 -Dynamic data of counts
 
-# Libraries
+## Libraries
 -video_player.
 -stack
 -cached_network_image
 
-# Installation
+## Installation
 
-1.Clone or download this repository 
+1.-Clone or download this repository 
 
+```bash
+git clone https://github.com/jitheshshetty55/Flutter_Videostream.git
+```
 
-https://github.com/jitheshshetty55/Flutter_Videostream.git
+2.-Config flutter project : 
 
-
-2.Config flutter project : 
-
-
+```bash
 flutter pub get
-
+```
 
 
